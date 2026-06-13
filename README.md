@@ -10,6 +10,7 @@ I'm a polyglot software engineer who loves building tools, frameworks, and distr
 
 - **[Clippa Server](https://github.com/Dino16m/clippa-server)** — A distributed clipboard sharing system with WebSocket-based real-time sync, TLS-encrypted parties, and a consensus-based leader election protocol. Features a Go server + Go CLI client.
 - **[Clippa Client](https://github.com/Dino16m/clippa-client)** — Go CLI client for Clippa that handles clipboard monitoring, secure WebSocket communication, party management, and local/global network coordination.
+- **[Watcher](https://github.com/Dino16m/watcher)** — An AI-powered file organizer that uses a Large Language Model to automatically parse messy TV episode filenames and sort them into clean, standardized directory structures.
 - **[Rust Snitch](https://github.com/Dino16m/rust-snitch)** — A Rust monitoring daemon that alerts you when long-running tasks miss their check-in. Docker-ready.
 - **[iocframework](https://github.com/Dino16m/iocframework)** — Python dependency injection container inspired by Laravel's IOC. Supports binding, singletons, contextual resolution, and nested dependency resolution via type hints. Published on PyPI. ⭐
 - **[status-saver](https://github.com/Dino16m/status-saver)** — Android app built with Jetpack Compose for saving WhatsApp statuses.
